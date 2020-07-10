@@ -1,2 +1,0 @@
-WEBMANIA
-# addonsV12
